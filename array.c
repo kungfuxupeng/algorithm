@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(int argc,char *argv[]){
+    int a = 0;
 	int i=0;
     int b = 0;
 	int arr[3]={0};
